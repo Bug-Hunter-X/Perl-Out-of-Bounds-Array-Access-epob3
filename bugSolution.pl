@@ -1,0 +1,1 @@
+my @array = (1, 2, 3);if (@array > 3){ my $element = $array[3];}elsif (@array >= 3){ my $element = $array[2];}else{ print "Array index out of bounds";}
